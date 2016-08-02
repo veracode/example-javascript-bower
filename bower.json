@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "dojo": "~1.2.1",
-    "validator-js": "~1.0.1",
+    "validator-js": "~1.0.0",
     "jquery": "~1.4"
   },
   "private": true
